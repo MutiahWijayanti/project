@@ -13,11 +13,12 @@ Our goal is to provide students with a seamless and interactive learning experie
 
 ## Softwares/Libraries
 To use **Groovy KalBar**, you need to have the following software installed on your local computer:
-1. Python
-2. Javascript
-3. Flask-session
-4. HTML
-5. CSS
-6. SQL
-7. Bootstrap
-8. Jinja-template
+1. CS50 library for Python
+2. Python
+3. Javascript
+4. Flask-session
+5. HTML
+6. CSS
+7. SQL
+8. Bootstrap
+9. Jinja-template
