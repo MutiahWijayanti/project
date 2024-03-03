@@ -6,6 +6,7 @@ The application is free for use and is available in:
 The database is designed using sqlite>.schema
 
 CREATE TABLE IF NOT EXISTS 'user' ('id' INTEGER PRIMARY KEY NOT NULL, 'username' TEXT, 'hash' TEXT);
+
 CREATE TABLE IF NOT EXISTS 'aksi' ('id' INTEGER PRIMARY KEY NOT NULL, 'user_id' INTEGER, 'nilai' INTEGER);
 
 # Structure
