@@ -11,22 +11,39 @@ CREATE TABLE IF NOT EXISTS 'aksi' ('id' INTEGER PRIMARY KEY NOT NULL, 'user_id' 
 
 # Structure
 **project**
+
      * *asset*
+     
      * *flask_session*
+     
      * *static*
+     
      * *template*
+     
        * apology.html
+       
        * english.html
+       
        * index.html
+
        * layout.html
+       
        * login.html
+       
        * math.html
+       
        * passchange.html
+       
        * register.html
+       
        * tourism.html
+       
      * *app.py*
+     
      * *helpers.py*
+     
      * *project.db*
+     
      * *requirements.txt*
       
 All the assets and resources used in this application are located inside the static folder. Meanwhile, the templates keep all the HTML files that render results returned by app.py. The backbone of **Groovy KalBar** is in app.py, where records from the database are retrieved and modified, user inputs are processed, and results are rendered to the templates. helpers.py provides several functions to help with multi-level authentication and the adaptation of the famous CS50's apology from finance.
