@@ -12,7 +12,8 @@ To that end, we have developed a user-friendly web application that offers three
 Our goal is to provide students with a seamless and interactive learning experience that inspires their curiosity and encourages them to explore new subjects and ideas.
 
 ## Softwares/Libraries
-To use 'Groovy KalBar', you need to have the following softwares installed in your local computer:
+To use 'Groovy KalBar', you need to have the following software installed on your local computer:
+'''
 1. Python
 2. Flask-session
 3. HTML
@@ -20,3 +21,4 @@ To use 'Groovy KalBar', you need to have the following softwares installed in yo
 5. SQL
 6. Bootstrap
 7. Jinja-template
+'''
